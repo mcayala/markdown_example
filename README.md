@@ -9,4 +9,6 @@ It is not just GitHub default files - like README, CONTRIBUTING, LICENSE - that 
 ### Special case when file is called README
 As you know, when there is a file called README.md in a repository that file is displayed below the list of files and folders in the repoistory. This is the case **also** for any other folder than the top folder. You can have a README.md in, for example, the *BASELINE* folder that gives instructions on what is going in that folder and how those files are inteded to be used.
 
+Click the example folder to see the two files in markdown format there.
+
 
